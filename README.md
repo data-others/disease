@@ -1,4 +1,4 @@
-# Disease MRI Collections (`data-others/disease`)
+# Disease dMRI Collections
 
 Curated **disease-focused MRI datasets** (structural & diffusion) for research, benchmarking, and education.
 Each release retains its **original license**, **citation**, and **metadata**. Please **cite the source** when using any dataset.
